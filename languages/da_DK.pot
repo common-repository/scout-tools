@@ -1,0 +1,15 @@
+#: scouttools.php:123
+msgid "Skriv morse på din hjemmeside."
+msgstr ""
+
+#: scouttools.php:123
+msgid "Scout Tools"
+msgstr ""
+
+#: scouttools.php:123
+msgid "Her kan du finde værkertøjer til dit spejder arbejdet. Eks. morse oversætter osv..."
+msgstr ""
+
+#: scouttools.php:123
+msgid "For at få en morse kode på din side eller indlæg så skal du bruge [morse id=&#34;Det der skal være morse kode skrives her&#34;]"
+msgstr ""

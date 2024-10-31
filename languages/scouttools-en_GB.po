@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: Rene Staghøj Nielsen <rene@rexi.dk>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: scouttools.php:123
+msgid "Skriv morse på din hjemmeside."
+msgstr "Write Morse on your website."
+
+#: scouttools.php:123
+msgid "Scout Tools"
+msgstr "Scout Tools"
+
+#: scouttools.php:123
+msgid ""
+"Her kan du finde værkertøjer til dit spejder arbejdet. Eks. morse oversætter "
+"osv..."
+msgstr ""
+"Here you can find tools for your scout work. Ex. Morse Translator, etc…"
+
+#: scouttools.php:123
+msgid ""
+"For at få en morse kode på din side eller indlæg så skal du bruge [morse "
+"id=&#34;Det der skal være morse kode skrives her&#34;]"
+msgstr ""
+"To get a Morse code on your page or post then you need to use [Morse "
+"id=“That there must be Morse code written here”]"
